@@ -1,0 +1,12 @@
+.cardAnimalContainer{
+    height: 44%;
+    width: 98%;
+    border:solid black 2px;
+    contain: cover;
+    margin: auto;
+}
+
+.cardAnimalContainer img{
+    width: 100%;
+    height: 100%;
+}

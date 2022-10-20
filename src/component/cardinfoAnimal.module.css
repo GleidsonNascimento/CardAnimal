@@ -1,0 +1,26 @@
+.containerInfo{
+    border: solid 2px rgb(1, 45, 241);
+    background-color: rgba(229, 243, 250, 0.986);
+    height: 39%;
+    width: 96%;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 7px;
+    padding: 1%;
+}
+
+.containerInfo h3{
+    font-style:normal;
+    font-size: 24px;
+    margin: auto;
+    margin-top: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+.containerInfo p{
+    margin-bottom: 10px;
+}
+.text{
+    padding: 1px;
+    text-align: justify;
+    margin-bottom: 50px;
+}
